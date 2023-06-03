@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Dan Abramov",
+      "number": "123",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "3342",
+      "id": 6
+    }
+  ]
+}
